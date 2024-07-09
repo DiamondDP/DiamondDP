@@ -1,3 +1,3 @@
 # Hi
 
-$${\color{red}Red}$$
+<code style="color : name_color">Redish</code>
