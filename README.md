@@ -1,4 +1,2 @@
 # hi
-```diff
-- text in red
-```
+```diff - text in red``` est
