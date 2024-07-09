@@ -1,6 +1,3 @@
-<p>
-<h1>💎 Hi, i am Diamond 💎</h1>
-👋 hello
-</p>
+# Hi
+
 $${\color{red}Red}$$
-</a>
