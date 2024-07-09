@@ -1,1 +1,4 @@
-<code style="color : name_color">Redish</code>
+# hi
+```diff
+- text in red
+```
